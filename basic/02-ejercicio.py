@@ -8,7 +8,7 @@
 # 2
 
 
-number = input("give me a number: ")  # 6532
+number = input("give me a number: ")  # 6532 [1,2,3,4,5]
 # for num in number:
 #     print(num)
 
@@ -21,9 +21,9 @@ number = input("give me a number: ")  # 6532
 # es 4532, el output deberá ser 2354
 
 # lista
-numbers_separates = []
+numbers_separates = [1,2,3,4]
 
-# i es el número
+# i es el número (ITERAR)
 for i in number:
     numbers_separates.append(i) # agregando valior a la lista llamada numbers_separates
 

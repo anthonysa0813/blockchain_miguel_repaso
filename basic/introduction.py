@@ -9,7 +9,7 @@ another_list = [1,True, "something"]
 print(another_list)
 
 # tuplas
-students = ("jose", "ana", "pepe")
+students = ("jose", "ana", "pepe") # []
 # las tuplas no son mutables
 print(students)
 
